@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 
 <div align="center">
   <img align="center" height="200" src="https://i.imgur.com/e0LZMAa.png" />
