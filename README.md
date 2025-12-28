@@ -1,7 +1,6 @@
-### Opa, tudo bom? Eu sou o Gabriel 👽
-##
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GbrielDL&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GbrielDL&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GbrielDL&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
+<div align="center">
+  <img align="center" height="150" src="[https://imgur.com/aXIQLp8.png](https://imgur.com/gallery/bob-esponja-pensativo-INdWJ)" />
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
